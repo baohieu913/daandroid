@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- Đặt màu nền và chỉ định độ trong suốt (alpha) -->
+    <corners android:radius="60dp" />
+    <solid android:color="#60FFFFFF" /> <!-- 40 là giá trị alpha, có thể điều chỉnh từ 00 đến FF (0 đến 255) -->
+</shape>
